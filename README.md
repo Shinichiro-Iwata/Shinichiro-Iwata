@@ -1,4 +1,4 @@
-### Shinichiro Iwata
+## Shinichiro Iwata
 <hr>
 
 - Affiliation: Faculty of Economics, Kanagawa University
