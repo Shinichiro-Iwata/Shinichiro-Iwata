@@ -1,6 +1,4 @@
 ## Shinichiro Iwata
-<hr>
-
 - Affiliation: Faculty of Economics, Kanagawa University
 - Research Fields: Housing and Urban Economics
 - Website: https://shinichiro-iwata.github.io/ 
