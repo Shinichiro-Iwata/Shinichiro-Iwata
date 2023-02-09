@@ -1,4 +1,9 @@
-### Hi there 👋
+### Shinichiro Iwata 
+- Affiliation: Faculty of Economics, Kanagawa University
+- Research Fields: Housing and Urban Economics
+- ORCID: <a href="https://orcid.org/0000-0002-3161-7180">0000-0002-3161-7180</a>
+
+
 
 <!--
 **Shinichiro-Iwata/Shinichiro-Iwata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
