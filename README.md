@@ -1,8 +1,8 @@
 ## Shinichiro Iwata
-- Affiliation: Faculty of Economics, Kanagawa University
-- Research Fields: Housing and Urban Economics
-- Website: https://shinichiro-iwata.github.io/ 
-- ORCID: <a href="https://orcid.org/0000-0002-3161-7180">0000-0002-3161-7180</a>
+- <b>Affiliation</b>: Faculty of Economics, Kanagawa University
+- <b>Research Fields</b>: Housing and Urban Economics
+- <b>Website</b>: https://shinichiro-iwata.github.io/ 
+- <b>ORCID</b>: <a href="https://orcid.org/0000-0002-3161-7180">0000-0002-3161-7180</a>
 
 
 
